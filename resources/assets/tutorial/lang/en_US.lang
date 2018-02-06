@@ -1,0 +1,10 @@
+item.asdf.name=Asdf Dust
+tile.asdfBlock.name=Asdf Block
+tile.qwerBlock.name=Qwer Block
+tile.zxcvBlock.name=Zxcv Block
+tile.metaBlock_0.name=Metablock 0 (White)
+tile.metaBlock_1.name=Metablock 1 (Black)
+tile.metaBlock_2.name=Metablock 2 (Red)
+tile.metaBlock_3.name=Metablock 3 (Green)
+tile.metaBlock_4.name=Metablock 4 (Yellow)
+tile.metaBlock_5.name=Metablock 5 (Blue)
